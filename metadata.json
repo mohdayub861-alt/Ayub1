@@ -1,0 +1,6 @@
+{
+  "name": "Jamovi Stats",
+  "description": "Comprehensive statistical analysis app inspired by Jamovi with APA 7th edition tables and interactive publication plots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
